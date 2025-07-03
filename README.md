@@ -1,5 +1,8 @@
 Mask Detection Using CNN . . 
 
+Method :
+https://medium.com/@samosirmasniari/68f5d9347e23
+
 -Prepare the Dataset:
  https://www.kaggle.com/datasets/andrewmvd/face-mask-detection
 
